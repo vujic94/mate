@@ -1,0 +1,47 @@
+ <!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>dwe mate</title>
+<style>
+  body {
+    background-color: #333; /* Darker background */
+    color: #fff; /* Text color */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  h1 {
+    text-align: center;
+  }
+  #cat1, #cat2 {
+    display: block;
+    margin: 0 auto;
+    width: 300px; /* Adjust the size as needed */
+	margin-top: 50px
+	 display: inline-block
+    height: auto;
+  }
+  #laptop {
+    display: block;
+    margin: 20px auto;
+    width: 200px; /* Adjust the size as needed */
+    height: auto;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>Dwe mate igwaju pifpiwic</h1>
+  <img id="cat1" src="transparent-cat-image-15.png" alt="Brown Cat">
+  <img id="laptop" src="fc.png" alt="Laptop Screen">
+  <img id="cat2" src="white cat.png" alt="White Cat">
+</div>
+</body>
+</html>        
